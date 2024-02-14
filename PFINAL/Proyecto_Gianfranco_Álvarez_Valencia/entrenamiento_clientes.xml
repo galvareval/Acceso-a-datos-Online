@@ -1,0 +1,34 @@
+<clientes>
+  <cliente>
+    <ID>1</ID>
+    <Nombre>Gianfranco</Nombre>
+    <Apel1>Álvarez</Apel1>
+    <Apel2>Valencia</Apel2>
+    <Telefono>948000000</Telefono>
+    <Email>gianfranco@gim.com</Email>
+  </cliente>
+  <cliente>
+    <ID>2</ID>
+    <Nombre>Javier</Nombre>
+    <Apel1>Herrera</Apel1>
+    <Apel2>Lopez</Apel2>
+    <Telefono>948000000</Telefono>
+    <Email>javier@gim.com</Email>
+  </cliente>
+  <cliente>
+    <ID>3</ID>
+    <Nombre>Mikel</Nombre>
+    <Apel1>Arma</Apel1>
+    <Apel2>Sudor</Apel2>
+    <Telefono>948000000</Telefono>
+    <Email>mikel@gim.com</Email>
+  </cliente>
+  <cliente>
+    <ID>4</ID>
+    <Nombre>Josue</Nombre>
+    <Apel1>Martinez</Apel1>
+    <Apel2>Estaun</Apel2>
+    <Telefono>948000000</Telefono>
+    <Email>josue@gim.com</Email>
+  </cliente>
+</clientes>

@@ -1,0 +1,15 @@
+Nombre		Tipo		Tamaño	Fecha modificacion
+12		Dir		0	Fri Nov 04 21:24:38 CET 2022
+Copia de eppeee.txt	text/plain	0	Fri Nov 04 21:06:14 CET 2022
+Copia de exrport.txt	text/plain	0	Fri Nov 04 20:58:37 CET 2022
+Copia de pepepepe.txt	text/plain	0	Fri Nov 04 21:06:01 CET 2022
+Copia de probaaando.txt	text/plain	0	Fri Nov 04 21:23:56 CET 2022
+Copia de prueba.txt	text/plain	0	Fri Nov 04 20:54:06 CET 2022
+Copia de prueba2.txt	text/plain	0	Fri Nov 04 21:05:55 CET 2022
+eppeee.txt	text/plain	0	Fri Nov 04 20:20:13 CET 2022
+exrport.txt	text/plain	0	Fri Nov 04 20:58:33 CET 2022
+pepepepe.txt	text/plain	0	Fri Nov 04 20:04:52 CET 2022
+probaaando.txt	text/plain	0	Fri Nov 04 21:23:51 CET 2022
+prueba.txt	text/plain	0	Fri Nov 04 16:44:48 CET 2022
+prueba2.txt	text/plain	0	Fri Nov 04 16:46:09 CET 2022
+sdfsdf		Dir		0	Fri Nov 04 19:50:30 CET 2022
